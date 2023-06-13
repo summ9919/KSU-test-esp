@@ -1,3 +1,8 @@
+## 后面的是原项目的介绍，直接release下载就好了。
+
+
+
+
 **中文** | [English](README_EN.md)
 
 # KernelSU Action
